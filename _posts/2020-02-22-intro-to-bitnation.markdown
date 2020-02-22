@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to BitNation"
-date:   2020-02-22 21:39:02 -0600
+date:   2020-02-22 07:30:39:02 -0600
 categories: java spring bitnation
 ---
 
