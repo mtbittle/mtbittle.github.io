@@ -27,6 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mtbittle
 github_username:  mtbittle
 github: [metadata]
+site:
+  github:
+    is_project_page: true
 # Build settings
 theme: jekyll-theme-slate
 #theme: minima
