@@ -16,7 +16,7 @@ RHEL kickstarter scripts, a little Groovy on Grails, JMS, Struts 2, and Spring M
 enterprise applications from monolithic structures to container-based cloud microservices, continuous integration
 and deployment using Jenkins, Docker, and Kubernetes.
 
-Everyone's using Git, Maven, and Gradle these days with Spring Boot, Docker images, and lightweight application servers these days.
+Everyone's using Git, Maven, and Gradle these days with Spring Boot, Docker images, and lightweight application servers.
 It's really impressive how the industry, technology, and frameworks have matured over the years. I still remember using
 Subversion and ClearCase for version control, managing dependencies manually, and continually hearing, "well, it works on my machine!"
 
